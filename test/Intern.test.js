@@ -18,10 +18,4 @@ test("Can get school via getSchool()", () => {
   expect(e.getSchool()).toBe(testValue);
 });
 
-for (var i = 0; i > 5, i++) {
-  function getIDindex(index) {
-    console.log("line number " + i)
 
-  };
-};
-}
